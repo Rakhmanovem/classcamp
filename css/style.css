@@ -118,6 +118,47 @@ a {
     letter-spacing: 0.42px;
 }
 
+.work {
+    background: rgba(19, 19, 17, 0.87);
+}
+
+.work__content {
+    text-align: start;
+}
+
+.work__group {}
+
+.work__photo {
+    display: flex;
+    justify-content: end;
+}
+
+.work__title {
+    width: 442px;
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 70.4px;
+    /* 121.379% */
+    letter-spacing: 1.92px;
+    margin-top: 90px;
+}
+
+.work__text {
+    width: 452px;
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 37.8px;
+    /* 145.385% */
+    letter-spacing: 1.08px;
+}
+
+.work__content {
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
@@ -141,11 +182,7 @@ a {
 
 
 
-
-
-
-
-@media screen and (max-width: 900px) {
+. @media screen and (max-width: 900px) {
     .hero__title {
         display: flex;
         flex-direction: column;
