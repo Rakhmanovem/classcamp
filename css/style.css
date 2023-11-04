@@ -668,6 +668,38 @@ body {
     margin-top: 20px;
 }
 
+.weeks__content {
+    margin-top: 70px;
+    width: 100%;
+    height: 100%;
+}
+
+.weeks__group {
+    background: url(../images/Rectangle\ \(8\).png);
+    width: 100%;
+    height: 100%;
+}
+
+.weeks__title {
+    width: 701px;
+    color: #FFF;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 48.837px;
+    letter-spacing: 0.42px;
+}
+
+.weeks__text {
+    width: 281px;
+    color: rgba(255, 255, 255, 0.70);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.42px;
+    margin-left: 170px;
+}
 
 
 
